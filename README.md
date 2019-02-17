@@ -3,6 +3,7 @@ Fundamentals II Assignment I
 Notes: 
 Buttons are recycled, "PLAY" = return to main menu - when on the win/lose states
                       "Exit" = return to main menu - when paused.
+                    
 Music sting added to lose
 Music toggle added to win
 SFX jump added to room change event
